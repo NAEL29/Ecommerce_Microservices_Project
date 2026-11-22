@@ -6,7 +6,7 @@ e-commerce platform built with **Spring Boot microservices**: a customer places 
 
 ## Architecture
 
-![Global architecture](docs/EcomAppArchitecture.drawio%20(2).png)
+![Global architecture](docs/EcomAppArchitecture.png)
 
 **How a request flows**
 
